@@ -1,8 +1,11 @@
 # 共情对话论文集合
 
 [TOC]
+[Conference Papers](#conference-papers)
+[Survey](#survey)
+[论文学习笔记](#论文学习笔记)
 
-还有一个更全的网址 https://github.com/Sahandfer/EMPaper/blob/master/README.md
+还有一个更全的论文网址 https://github.com/Sahandfer/EMPaper/blob/master/README.md
 
 ## Conference Papers
 
